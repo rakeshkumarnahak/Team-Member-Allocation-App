@@ -4,4 +4,4 @@ In this app you can add members to different teams by selecting the team in the 
 
 This app is built using React and Bootstrap 5.
 
-## Check Out Now: [teammemberallocation-rakeshnahak.netlify.app](teammemberallocation-rakeshnahak.netlify.app)
+## Check Out Now: [teammemberallocation-rakeshnahak.netlify.app](https://teammemberallocation-rakeshnahak.netlify.app/)
