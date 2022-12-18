@@ -1,7 +1,7 @@
-### Introducing the Team member Allocation app.
+# Introducing the Team member Allocation app.
 
 In this app you can add members to different teams by selecting the team in the drop down and in the teams page you can see the members each team as selected by you.
 
 This app is built using React and Bootstrap 5.
 
-# Check Out Now: [teammemberallocation-rakeshnahak.netlify.app](teammemberallocation-rakeshnahak.netlify.app)
+## Check Out Now: [teammemberallocation-rakeshnahak.netlify.app](teammemberallocation-rakeshnahak.netlify.app)
